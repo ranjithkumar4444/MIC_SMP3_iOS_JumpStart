@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns="http://www.w3.org/2005/Atom"
+    xml:base="http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MARC/" >
+
+    <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MARC/z_marcCollection
+    </id>
+
+    <title type="text" >
+z_marcCollection
+    </title>
+
+    <updated>
+2013-05-10T20:00:03Z
+    </updated>
+
+    <author>
+
+        <name />
+    </author>
+
+    <link
+        href="z_marcCollection"
+        rel="self"
+        title="z_marcCollection" />
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MARC/z_marcCollection('MIC-005')
+        </id>
+
+        <title type="text" >
+z_marcCollection('MIC-005')
+        </title>
+
+        <updated>
+2013-05-10T20:00:03Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MARC.z_marc" />
+
+        <link
+            href="z_marcCollection(&apos;MIC-005&apos;)"
+            rel="self"
+            title="z_marc" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:werks>
+3000
+                </d:werks>
+
+                <d:matnr>
+MIC-005
+                </d:matnr>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MARC/z_marcCollection('MIC-005')
+        </id>
+
+        <title type="text" >
+z_marcCollection('MIC-005')
+        </title>
+
+        <updated>
+2013-05-10T20:00:03Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MARC.z_marc" />
+
+        <link
+            href="z_marcCollection(&apos;MIC-005&apos;)"
+            rel="self"
+            title="z_marc" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:werks>
+3100
+                </d:werks>
+
+                <d:matnr>
+MIC-005
+                </d:matnr>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MARC/z_marcCollection('MIC-005')
+        </id>
+
+        <title type="text" >
+z_marcCollection('MIC-005')
+        </title>
+
+        <updated>
+2013-05-10T20:00:03Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MARC.z_marc" />
+
+        <link
+            href="z_marcCollection(&apos;MIC-005&apos;)"
+            rel="self"
+            title="z_marc" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:werks>
+3200
+                </d:werks>
+
+                <d:matnr>
+MIC-005
+                </d:matnr>
+            </m:properties>
+        </content>
+    </entry>
+
+</feed>

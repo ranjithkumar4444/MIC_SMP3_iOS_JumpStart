@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns="http://www.w3.org/2005/Atom"
+    xml:base="http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_PLANT/" >
+
+    <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_PLANT/iwerksCollection('3000')
+    </id>
+
+    <title type="text" >
+iwerksCollection('3000')
+    </title>
+
+    <updated>
+2013-05-10T20:01:40Z
+    </updated>
+
+    <category
+        scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+        term="Z_PLANT.iwerks" />
+
+    <link
+        href="iwerksCollection(&apos;3000&apos;)"
+        rel="self"
+        title="iwerks" />
+
+    <content type="application/xml" >
+
+        <m:properties>
+
+            <d:name1>
+New York
+            </d:name1>
+
+            <d:land1>
+US
+            </d:land1>
+
+            <d:werks>
+3000
+            </d:werks>
+
+            <d:ort01>
+NEW YORK
+            </d:ort01>
+
+            <d:regio>
+NY
+            </d:regio>
+
+            <d:pstlz>
+10001
+            </d:pstlz>
+
+            <d:stras>
+691 Broadway
+            </d:stras>
+        </m:properties>
+    </content>
+
+</entry>

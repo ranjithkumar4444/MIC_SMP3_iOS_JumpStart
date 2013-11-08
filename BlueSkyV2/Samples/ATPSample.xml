@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns="http://www.w3.org/2005/Atom"
+    xml:base="http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_TEST_ATP/" >
+
+    <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_TEST_ATP/z_test_atpCollection(material='MIC-005',plant='3000',unit='EA')
+    </id>
+
+    <title type="text" >
+z_test_atpCollection(material='MIC-005',plant='3000',unit='EA')
+    </title>
+
+    <updated>
+2013-06-13T22:02:11Z
+    </updated>
+
+    <category
+        scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+        term="Z_TEST_ATP.z_test_atp" />
+
+    <link
+        href="z_test_atpCollection(material=&apos;MIC-005&apos;,plant=&apos;3000&apos;,unit=&apos;EA&apos;)"
+        rel="self"
+        title="z_test_atp" />
+
+    <content type="application/xml" >
+
+        <m:properties>
+
+            <d:av_qty_plt>
+24.000
+            </d:av_qty_plt>
+
+            <d:material>
+MIC-005
+            </d:material>
+
+            <d:plant>
+3000
+            </d:plant>
+
+            <d:unit>
+EA
+            </d:unit>
+        </m:properties>
+    </content>
+
+</entry>

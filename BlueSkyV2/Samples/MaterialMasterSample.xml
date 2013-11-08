@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns="http://www.w3.org/2005/Atom"
+    xml:base="http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MIC_MARA/" >
+
+    <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MIC_MARA/z_mic_maraCollection
+    </id>
+
+    <title type="text" >
+z_mic_maraCollection
+    </title>
+
+    <updated>
+2013-05-01T18:51:32Z
+    </updated>
+
+    <author>
+
+        <name />
+    </author>
+
+    <link
+        href="z_mic_maraCollection"
+        rel="self"
+        title="z_mic_maraCollection" />
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MIC_MARA/z_mic_maraCollection('MIC002')
+        </id>
+
+        <title type="text" >
+z_mic_maraCollection('MIC002')
+        </title>
+
+        <updated>
+2013-05-01T18:51:32Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MIC_MARA.z_mic_mara" />
+
+        <link
+            href="z_mic_maraCollection(&apos;MIC002&apos;)"
+            rel="self"
+            title="z_mic_mara" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:meins>
+EA
+                </d:meins>
+
+                <d:matkl>
+MIC002
+                </d:matkl>
+
+                <d:matnr>
+MIC-005
+                </d:matnr>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:maktx>
+Adjustable Wrench
+                </d:maktx>
+
+                <d:mandt>
+800
+                </d:mandt>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MIC_MARA/z_mic_maraCollection('MIC002')
+        </id>
+
+        <title type="text" >
+z_mic_maraCollection('MIC002')
+        </title>
+
+        <updated>
+2013-05-01T18:51:32Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MIC_MARA.z_mic_mara" />
+
+        <link
+            href="z_mic_maraCollection(&apos;MIC002&apos;)"
+            rel="self"
+            title="z_mic_mara" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:meins>
+EA
+                </d:meins>
+
+                <d:matkl>
+MIC002
+                </d:matkl>
+
+                <d:matnr>
+MIC-006
+                </d:matnr>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:maktx>
+Box End Wrench Set
+                </d:maktx>
+
+                <d:mandt>
+800
+                </d:mandt>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MIC_MARA/z_mic_maraCollection('MIC002')
+        </id>
+
+        <title type="text" >
+z_mic_maraCollection('MIC002')
+        </title>
+
+        <updated>
+2013-05-01T18:51:32Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MIC_MARA.z_mic_mara" />
+
+        <link
+            href="z_mic_maraCollection(&apos;MIC002&apos;)"
+            rel="self"
+            title="z_mic_mara" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:meins>
+EA
+                </d:meins>
+
+                <d:matkl>
+MIC002
+                </d:matkl>
+
+                <d:matnr>
+MIC-007
+                </d:matnr>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:maktx>
+Hex Wrench
+                </d:maktx>
+
+                <d:mandt>
+800
+                </d:mandt>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MIC_MARA/z_mic_maraCollection('MIC002')
+        </id>
+
+        <title type="text" >
+z_mic_maraCollection('MIC002')
+        </title>
+
+        <updated>
+2013-05-01T18:51:32Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MIC_MARA.z_mic_mara" />
+
+        <link
+            href="z_mic_maraCollection(&apos;MIC002&apos;)"
+            rel="self"
+            title="z_mic_mara" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:meins>
+EA
+                </d:meins>
+
+                <d:matkl>
+MIC002
+                </d:matkl>
+
+                <d:matnr>
+MIC-008
+                </d:matnr>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:maktx>
+Torque Wrench
+                </d:maktx>
+
+                <d:mandt>
+800
+                </d:mandt>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MIC_MARA/z_mic_maraCollection('MIC002')
+        </id>
+
+        <title type="text" >
+z_mic_maraCollection('MIC002')
+        </title>
+
+        <updated>
+2013-05-01T18:51:32Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MIC_MARA.z_mic_mara" />
+
+        <link
+            href="z_mic_maraCollection(&apos;MIC002&apos;)"
+            rel="self"
+            title="z_mic_mara" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:meins>
+EA
+                </d:meins>
+
+                <d:matkl>
+MIC002
+                </d:matkl>
+
+                <d:matnr>
+MIC-009
+                </d:matnr>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:maktx>
+Pipe Wrench
+                </d:maktx>
+
+                <d:mandt>
+800
+                </d:mandt>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MIC_MARA/z_mic_maraCollection('MIC002')
+        </id>
+
+        <title type="text" >
+z_mic_maraCollection('MIC002')
+        </title>
+
+        <updated>
+2013-05-01T18:51:32Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MIC_MARA.z_mic_mara" />
+
+        <link
+            href="z_mic_maraCollection(&apos;MIC002&apos;)"
+            rel="self"
+            title="z_mic_mara" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:meins>
+EA
+                </d:meins>
+
+                <d:matkl>
+MIC002
+                </d:matkl>
+
+                <d:matnr>
+ZZWRENCH01
+                </d:matnr>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:maktx>
+ZZ Test Wrench 1
+                </d:maktx>
+
+                <d:mandt>
+800
+                </d:mandt>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_MIC_MARA/z_mic_maraCollection('MIC002')
+        </id>
+
+        <title type="text" >
+z_mic_maraCollection('MIC002')
+        </title>
+
+        <updated>
+2013-05-01T18:51:32Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_MIC_MARA.z_mic_mara" />
+
+        <link
+            href="z_mic_maraCollection(&apos;MIC002&apos;)"
+            rel="self"
+            title="z_mic_mara" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:meins>
+EA
+                </d:meins>
+
+                <d:matkl>
+MIC002
+                </d:matkl>
+
+                <d:matnr>
+ZZWRENCH02
+                </d:matnr>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:maktx>
+ZZ Test Wrench 2
+                </d:maktx>
+
+                <d:mandt>
+800
+                </d:mandt>
+            </m:properties>
+        </content>
+    </entry>
+
+</feed>

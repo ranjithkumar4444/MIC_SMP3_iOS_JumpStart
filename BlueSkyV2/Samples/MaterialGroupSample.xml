@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns="http://www.w3.org/2005/Atom"
+    xml:base="http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/" >
+
+    <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection
+    </id>
+
+    <title type="text" >
+z_grpCollection
+    </title>
+
+    <updated>
+2013-05-01T18:53:20Z
+    </updated>
+
+    <author>
+
+        <name />
+    </author>
+
+    <link
+        href="z_grpCollection"
+        rel="self"
+        title="z_grpCollection" />
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Pliers
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC001
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Wrenches
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC002
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Drills
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC003
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Sanders
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC004
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Washing Machines
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC005
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Ratchet Sets
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC006
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Screw Drivers
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC007
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Cutting Tools
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC008
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Hammers
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC009
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+    <entry>
+
+        <id>
+http://DIGTDC00.WDF.SAP.CORP:55080/sap/opu/odata/sap/Z_GRP/z_grpCollection('E')
+        </id>
+
+        <title type="text" >
+z_grpCollection('E')
+        </title>
+
+        <updated>
+2013-05-01T18:53:20Z
+        </updated>
+
+        <category
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+            term="Z_GRP.z_grp" />
+
+        <link
+            href="z_grpCollection(&apos;E&apos;)"
+            rel="self"
+            title="z_grp" />
+
+        <content type="application/xml" >
+
+            <m:properties>
+
+                <d:wgbez>
+Vacuum Cleaners
+                </d:wgbez>
+
+                <d:spras>
+E
+                </d:spras>
+
+                <d:matkl>
+MIC010
+                </d:matkl>
+            </m:properties>
+        </content>
+    </entry>
+
+</feed>

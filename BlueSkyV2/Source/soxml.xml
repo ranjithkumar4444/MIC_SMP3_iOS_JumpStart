@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <entry xml:base="http://micrelay.sap.com/micsmp3prod/BlueSky.svc/" xmlns="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+    <id>http://micprod.phl.sap.corp:8080/BlueSky.svc/SalesOrders('{SALESORDERNUMBER}')</id>
+    <title type="text">SalesOrders('{SALESORDERNUMBER}')</title>
+    <updated>2013-10-01T21:32:31Z</updated>
+    <category term="ZBLUESKY_SRV.ZSalesOrder" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link href="SalesOrders('{SALESORDERNUMBER}')" rel="edit" title="ZSalesOrder"/>
+    <link href="SalesOrders('{SALESORDERNUMBER}')/SalesOrderItems" rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/SalesOrderItems" type="application/atom+xml;type=feed" title="SalesOrderItems">
+    <m:inline>
+    <feed xml:base="http://micrelay.sap.com/micsmp3prod/BlueSky.svc/">
+    <id>http://micrelay.sap.com/micsmp3prod/BlueSky.svc/SalesOrders('{SALESORDERNUMBER}')/SalesOrderItems</id>
+    <title type="text">SalesOrderItems</title>
+    <updated>2013-10-01T21:32:31Z</updated>
+    <author>
+    <name/>
+    </author>
+    <link href="SalesOrders('{SALESORDERNUMBER}')/SalesOrderItems" rel="self" title="SalesOrderItems"/>
+    <entry>
+    <id>http://micrelay.sap.com/micsmp3prod/BlueSky.svc/SalesOrderItems(OrderId='{SALESORDERNUMBER}',Item='{ITEMNO}')</id>
+    <title type="text">SalesOrderItems(OrderId='{SALESORDERNUMBER}',Item='{ITEMNO}')</title>
+    <updated>2013-10-01T21:32:31Z</updated>
+    <category term="ZBLUESKY_SRV.ZSalesOrderItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link href="SalesOrderItems(OrderId='{SALESORDERNUMBER}',Item='{ITEMNO}')" rel="edit" title="ZSalesOrderItem"/>
+    <content type="application/xml">
+    <m:properties>
+    <d:OrderId>{SALESORDERNUMBER}</d:OrderId>
+    <d:Item>{ITEMNO}</d:Item>
+    <d:Material>{MATERIAL}</d:Material>
+    <d:Description>{DESCRIPTION}</d:Description>
+    <d:Quantity>{QUANTITY}</d:Quantity>
+    <d:UoM>EA</d:UoM>
+    <d:Plant>{PLANT}</d:Plant>
+    <d:Value>3.50</d:Value>
+    <d:Currency>USD</d:Currency>
+    <d:ItemDlvyStatus/>
+    <d:ItemDlvyStaTx/>
+    </m:properties>
+    </content>
+    </entry>
+    </feed>
+    </m:inline>
+    </link>
+    <content type="application/xml">
+    <m:properties>
+    <d:OrderId>{SALESORDERNUMBER}</d:OrderId>
+    <d:DocumentType>TA</d:DocumentType>
+    <d:DocumentDate>2013-09-24T00:00:00</d:DocumentDate>
+    <d:CustomerId>{CUSTOMER}</d:CustomerId>
+    <d:SalesOrg>3000</d:SalesOrg>
+    <d:DistChannel>10</d:DistChannel>
+    <d:Division>00</d:Division>
+    <d:Currency>USD</d:Currency>
+
+    </m:properties>
+    </content>
+    </entry>
